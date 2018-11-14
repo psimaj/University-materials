@@ -1,5 +1,7 @@
-#return is equivalent to raising StopIteration
-#return value is the message carried by the exception
+"""
+return is equivalent to raising StopIteration
+return value is the message carried by the exception
+"""
 
 def why_loop():
     yield 1
